@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Hello"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+I am Yunrong Yang, a third-year M.S. student in the AI+ public health programs at the Institute of Automation, Chinese Academy of Sciences ([CASIA](http://english.ia.cas.cn/)), Beijing. My advisor is Dr. [Zhidong Cao](http://www.ia.cas.cn/sourcedb_ia_cas/cn/iaexpert/201210/t20121002_3655037.html). I received my B.S. in Electronic Engineering (EE) from Northeastern University at Qinhuangdao (NEUQ), China.
+
+My research is about applying NLP, KG and ML/DL to public health domain, especially focusing on accelerating COVID-19 related public health decision-making. My research projects include document-level entity and relation extraction from COVID-19 scientific literature, and Chinese event and event causality extraction from social media texts.
 
 A data-driven personal website
 ======
