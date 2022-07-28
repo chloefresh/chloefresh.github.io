@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hello"
+title: "Welcome to Yunrong Yang's HomePage!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
